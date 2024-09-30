@@ -7,9 +7,9 @@
   <DeflectionMult>100</DeflectionMult>
   <AtmosphericMinimum>0</AtmosphericMinimum>
   <RotationalDragMultiplier>100</RotationalDragMultiplier>
-  <advancedlift>true</advancedlift>
+  <advancedlift>false</advancedlift>
   <SimulateWind>true</SimulateWind>
-  <mult>100</mult>
+  <mult>200</mult>
   <radMult>100</radMult>
   <heat>true</heat>
   <digi>true</digi>
@@ -17,6 +17,6 @@
   <WindGenSeed>635</WindGenSeed>
   <DisableReEntry>false</DisableReEntry>
   <SimulationMaxSpeed>300</SimulationMaxSpeed>
-  <IgnoreStatic>false</IgnoreStatic>
+  <IgnoreStatic>true</IgnoreStatic>
   <GlobalWindSpeedMultiplier>1</GlobalWindSpeedMultiplier>
 </DragSettings>
